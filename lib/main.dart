@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
  
 import 'dependencias.dart';
-import 'presentacion/pantallas/pantalla_carrito.dart';
-import 'presentacion/pantallas/pantalla_catalogo.dart';
-import 'presentacion/pantallas/pantalla_perfil.dart';
+import 'presentacion/pantallas/carrito.dart';
+import 'presentacion/pantallas/catalogo.dart';
+import 'presentacion/pantallas/perfil.dart';
  
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
